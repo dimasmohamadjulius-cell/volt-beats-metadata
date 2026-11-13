@@ -1,0 +1,47 @@
+{
+  "name": "Rain Chameleon #447",
+  "description": "Bunglon emas bergaris listrik biru, penjaga hutan hujan. Edisi 9 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/47-rain-chameleon.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Bunglon"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Rainforest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Rain Chameleon"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "9 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 863388-E09"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

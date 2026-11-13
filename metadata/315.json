@@ -1,0 +1,47 @@
+{
+  "name": "Golden Whale #315",
+  "description": "Paus emas bermotif listrik biru, raksasa lembut laut dalam. Edisi 7 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/15-golden-whale.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Paus"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Deep Ocean"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 4
+    },
+    {
+      "trait_type": "Design",
+      "value": "Golden Whale"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "7 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 601793-E07"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

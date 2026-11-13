@@ -1,0 +1,47 @@
+{
+  "name": "Golden Horse #430",
+  "description": "Kuda emas bersurai listrik biru, pelari padang bunga. Edisi 9 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/30-golden-horse.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kuda"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Meadow"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Golden Horse"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "9 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 365270-E09"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

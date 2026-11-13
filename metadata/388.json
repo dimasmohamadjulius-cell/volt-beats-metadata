@@ -1,0 +1,47 @@
+{
+  "name": "Wetland Heron #388",
+  "description": "Bangau emas bersayap listrik biru, penjaga rawa berkabut. Edisi 8 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/38-wetland-heron.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Bangau"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Wetland"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Wetland Heron"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "8 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 973511-E08"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

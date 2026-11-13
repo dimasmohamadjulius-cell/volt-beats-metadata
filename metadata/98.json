@@ -1,0 +1,47 @@
+{
+  "name": "Desert Tortoise #98",
+  "description": "Kura-kura darat emas bercangkang listrik biru, penjaga gurun. Edisi 2 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/48-desert-tortoise.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kura-kura Darat"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Desert Tortoise"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "2 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 844173-E02"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

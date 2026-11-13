@@ -1,0 +1,47 @@
+{
+  "name": "Garden Peacock #134",
+  "description": "Merak emas berekor listrik biru, penari taman bunga. Edisi 3 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/34-garden-peacock.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Merak"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 3
+    },
+    {
+      "trait_type": "Design",
+      "value": "Garden Peacock"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "3 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 730910-E03"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

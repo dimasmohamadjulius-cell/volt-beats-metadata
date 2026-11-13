@@ -1,0 +1,47 @@
+{
+  "name": "Pond Frog #244",
+  "description": "Katak emas berbintik listrik biru, penjaga kolam teratai. Edisi 5 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/44-pond-frog.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Katak"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Pond"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Pond Frog"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "5 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 984731-E05"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

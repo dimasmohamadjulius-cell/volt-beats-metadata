@@ -1,0 +1,47 @@
+{
+  "name": "Arctic Seal #422",
+  "description": "Anjing laut emas bersirip listrik biru, penjaga bongkahan es di bawah aurora. Edisi 9 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/22-arctic-seal.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Anjing Laut"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Arctic Coast"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Arctic Seal"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "9 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 918674-E09"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

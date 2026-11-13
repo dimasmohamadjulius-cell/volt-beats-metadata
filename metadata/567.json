@@ -1,0 +1,47 @@
+{
+  "name": "Glow Jelly #567",
+  "description": "Ubur-ubur emas bercahaya listrik biru, penari laut dalam. Edisi 12 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/17-glow-jelly.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Ubur-ubur"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Deep Sea"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Glow Jelly"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "12 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 500179-E12"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

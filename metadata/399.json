@@ -1,0 +1,47 @@
+{
+  "name": "Garden Snail #399",
+  "description": "Siput emas bercangkang listrik biru, penjaga taman berembun. Edisi 8 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/49-garden-snail.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Siput"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Garden Snail"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "8 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 888891-E08"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

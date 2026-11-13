@@ -1,0 +1,47 @@
+{
+  "name": "Reef Turtle #606",
+  "description": "Penyu emas bermotif listrik biru, penjaga terumbu karang. Edisi 13 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/06-reef-turtle.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Penyu"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Coral Reef"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Reef Turtle"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "13 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 294877-E13"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

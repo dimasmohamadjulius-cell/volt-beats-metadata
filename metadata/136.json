@@ -1,0 +1,47 @@
+{
+  "name": "Flower Hummingbird #136",
+  "description": "Kolibri emas bersayap listrik biru, penari taman bunga. Edisi 3 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/36-flower-hummingbird.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kolibri"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Flower Garden"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Flower Hummingbird"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "3 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 939146-E03"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

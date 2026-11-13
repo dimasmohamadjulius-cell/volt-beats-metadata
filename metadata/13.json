@@ -1,0 +1,47 @@
+{
+  "name": "Ember Fox #13",
+  "description": "Rubah emas berekor listrik biru, penjaga hutan musim gugur. Edisi 1 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/13-ember-fox.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Rubah"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Autumn Forest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 3
+    },
+    {
+      "trait_type": "Design",
+      "value": "Ember Fox"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 471926-E01"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

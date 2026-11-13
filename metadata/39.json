@@ -1,0 +1,47 @@
+{
+  "name": "Coast Gull #39",
+  "description": "Camar emas bersayap listrik biru, penari tebing pantai. Edisi 1 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/39-coast-gull.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Camar"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Coast"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Coast Gull"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 931887-E01"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

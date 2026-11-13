@@ -1,0 +1,47 @@
+{
+  "name": "Reef Crab #568",
+  "description": "Kepiting emas bercapit listrik biru, penjaga pantai karang. Edisi 12 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/18-reef-crab.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kepiting"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Reef Crab"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "12 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 321531-E12"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

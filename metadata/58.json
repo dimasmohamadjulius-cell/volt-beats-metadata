@@ -1,0 +1,47 @@
+{
+  "name": "Night Owl #58",
+  "description": "Burung hantu emas bermata listrik biru, penjaga hutan malam. Edisi 2 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/08-night-owl.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Burung Hantu"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Night Forest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Night Owl"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "2 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 454454-E02"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

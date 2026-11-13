@@ -1,0 +1,47 @@
+{
+  "name": "Koala Spark #377",
+  "description": "Koala emas bertelinga listrik biru, penjaga dahan eukaliptus. Edisi 8 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/27-koala-spark.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Koala"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Eucalyptus Forest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Koala Spark"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "8 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 569667-E08"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

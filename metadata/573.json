@@ -1,0 +1,47 @@
+{
+  "name": "Forest Bear #573",
+  "description": "Anak beruang emas bertelapak listrik biru, penjaga hutan beri. Edisi 12 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/23-forest-bear.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Beruang"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Forest Bear"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "12 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 692931-E12"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

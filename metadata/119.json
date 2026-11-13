@@ -1,0 +1,47 @@
+{
+  "name": "Clown Spark #119",
+  "description": "Ikan badut emas bergaris listrik biru, penari anemon karang. Edisi 3 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/19-clown-spark.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Ikan Badut"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Anemone Reef"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Clown Spark"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "3 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 399739-E03"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

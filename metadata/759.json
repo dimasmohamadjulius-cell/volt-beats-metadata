@@ -1,0 +1,47 @@
+{
+  "name": "Storm Phoenix #759",
+  "description": "Phoenix emas bersayap api listrik biru, penguasa langit badai. Edisi 16 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/09-storm-phoenix.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Storm Sky"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 4
+    },
+    {
+      "trait_type": "Design",
+      "value": "Storm Phoenix"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "16 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 481869-E16"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

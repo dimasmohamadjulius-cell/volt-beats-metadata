@@ -1,0 +1,47 @@
+{
+  "name": "Rainforest Parrot #90",
+  "description": "Beo emas bersayap listrik biru, penari hutan hujan. Edisi 2 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/40-rainforest-parrot.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Beo"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Rainforest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 3
+    },
+    {
+      "trait_type": "Design",
+      "value": "Rainforest Parrot"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "2 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 210345-E02"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

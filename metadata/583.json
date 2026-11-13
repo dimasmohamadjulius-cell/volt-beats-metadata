@@ -1,0 +1,47 @@
+{
+  "name": "Savanna Zebra #583",
+  "description": "Zebra emas bergaris listrik biru, pelari sabana. Edisi 12 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/33-savanna-zebra.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Savanna"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Savanna Zebra"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "12 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 566394-E12"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

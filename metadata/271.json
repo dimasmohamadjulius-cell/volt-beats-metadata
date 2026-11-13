@@ -1,0 +1,47 @@
+{
+  "name": "Frost Penguin #271",
+  "description": "Pinguin emas bersayap listrik biru, penjaga pantai es di bawah aurora. Edisi 6 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/21-frost-penguin.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Pinguin"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Ice Coast"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Frost Penguin"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "6 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 258438-E06"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

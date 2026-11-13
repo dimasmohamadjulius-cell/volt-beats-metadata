@@ -1,0 +1,47 @@
+{
+  "name": "Spark Wing #112",
+  "description": "Kupu-kupu emas bersayap listrik biru, penari padang bunga. Edisi 3 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/12-spark-wing.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kupu-kupu"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Spark Wing"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "3 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 336473-E03"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

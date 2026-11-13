@@ -1,0 +1,47 @@
+{
+  "name": "Moon Wolf #455",
+  "description": "Anak serigala putih bermantel listrik biru, pelolong bulan purnama di hutan salju. Edisi 10 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/05-moon-wolf.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Serigala"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Snowy Forest"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 2
+    },
+    {
+      "trait_type": "Design",
+      "value": "Moon Wolf"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "10 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 825110-E10"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

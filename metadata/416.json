@@ -1,0 +1,47 @@
+{
+  "name": "Sea Spark #416",
+  "description": "Kuda laut emas bersirip listrik biru, penari padang lamun. Edisi 9 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/16-sea-spark.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kuda Laut"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Seagrass Meadow"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Sea Spark"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "9 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 274070-E09"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

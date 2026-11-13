@@ -1,0 +1,47 @@
+{
+  "name": "Desert Scorpion #700",
+  "description": "Kalajengking emas bersengat listrik biru, penjaga gurun. Edisi 14 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/50-desert-scorpion.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Kalajengking"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 4
+    },
+    {
+      "trait_type": "Design",
+      "value": "Desert Scorpion"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "14 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Paid"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 856861-E14"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}

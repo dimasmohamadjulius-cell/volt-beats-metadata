@@ -1,0 +1,47 @@
+{
+  "name": "Jungle Monkey #126",
+  "description": "Monyet emas berekor listrik biru, pelompat ceria hutan tropis. Edisi 3 dari 16. Bagian dari koleksi Volt Beats — hewan listrik orisinal di BNB Chain.",
+  "image": "ipfs://bafybeidryu6klnhls4jpvmlhfkie5dn7s27qsybwneb5zr5wml47gokj4e/framed/26-jungle-monkey.webp",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Monyet"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": 1
+    },
+    {
+      "trait_type": "Design",
+      "value": "Jungle Monkey"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "3 of 16"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Serial",
+      "value": "SN 729588-E03"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}
